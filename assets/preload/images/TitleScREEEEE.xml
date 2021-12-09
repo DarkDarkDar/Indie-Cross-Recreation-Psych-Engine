@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TitleScREEEEE.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FZETG instance 10000" x="10" y="10" width="427" height="211"/>
+	<SubTexture name="Tween 1 instance 10000" x="447" y="10" width="802" height="499" frameX="0" frameY="0" frameWidth="802" frameHeight="623"/>
+	<SubTexture name="Tween 1 instance 10001" x="447" y="10" width="802" height="499" frameX="0" frameY="0" frameWidth="802" frameHeight="623"/>
+	<SubTexture name="Tween 1 instance 10002" x="1259" y="10" width="775" height="514" frameX="0" frameY="-18" frameWidth="802" frameHeight="623"/>
+	<SubTexture name="Tween 1 instance 10003" x="2044" y="10" width="638" height="525" frameX="-27" frameY="-95" frameWidth="802" frameHeight="623"/>
+	<SubTexture name="Tween 1 instance 10004" x="2044" y="10" width="638" height="525" frameX="-27" frameY="-95" frameWidth="802" frameHeight="623"/>
+	<SubTexture name="Tween 1 instance 10005" x="2692" y="10" width="716" height="542" frameX="-30" frameY="-80" frameWidth="802" frameHeight="623"/>
+	<SubTexture name="Tween 1 instance 10006" x="2692" y="10" width="716" height="542" frameX="-30" frameY="-80" frameWidth="802" frameHeight="623"/>
+	<SubTexture name="Tween 1 instance 10007" x="3418" y="10" width="802" height="499" frameX="0" frameY="0" frameWidth="802" frameHeight="623"/>
+	<SubTexture name="Tween 1 instance 10008" x="3418" y="10" width="802" height="499" frameX="0" frameY="0" frameWidth="802" frameHeight="623"/>
+	<SubTexture name="Tween 1 instance 10009" x="4230" y="10" width="722" height="557" frameX="0" frameY="-32" frameWidth="802" frameHeight="623"/>
+	<SubTexture name="Tween 1 instance 10010" x="4230" y="10" width="722" height="557" frameX="0" frameY="-32" frameWidth="802" frameHeight="623"/>
+	<SubTexture name="Tween 1 instance 10011" x="4962" y="10" width="711" height="519" frameX="-27" frameY="-95" frameWidth="802" frameHeight="623"/>
+	<SubTexture name="Tween 1 instance 10012" x="4962" y="10" width="711" height="519" frameX="-27" frameY="-95" frameWidth="802" frameHeight="623"/>
+	<SubTexture name="Tween 1 instance 10013" x="5683" y="10" width="667" height="543" frameX="-30" frameY="-80" frameWidth="802" frameHeight="623"/>
+	<SubTexture name="Tween 1 instance 10014" x="5683" y="10" width="667" height="543" frameX="-30" frameY="-80" frameWidth="802" frameHeight="623"/>
+	<SubTexture name="Tween 11 instance 10000" x="6360" y="10" width="1149" height="909"/>
+	<SubTexture name="Tween 11 instance 10001" x="10" y="929" width="1129" height="893" frameX="-10" frameY="-8" frameWidth="1149" frameHeight="909"/>
+	<SubTexture name="Tween 11 instance 10002" x="1149" y="929" width="1111" height="879" frameX="-19" frameY="-15" frameWidth="1149" frameHeight="909"/>
+	<SubTexture name="Tween 11 instance 10003" x="2270" y="929" width="1097" height="867" frameX="-26" frameY="-21" frameWidth="1149" frameHeight="909"/>
+	<SubTexture name="Tween 11 instance 10004" x="3377" y="929" width="1085" height="858" frameX="-32" frameY="-26" frameWidth="1149" frameHeight="909"/>
+	<SubTexture name="Tween 11 instance 10005" x="4472" y="929" width="1076" height="850" frameX="-36" frameY="-30" frameWidth="1149" frameHeight="909"/>
+	<SubTexture name="Tween 11 instance 10006" x="5558" y="929" width="1068" height="845" frameX="-40" frameY="-32" frameWidth="1149" frameHeight="909"/>
+	<SubTexture name="Tween 11 instance 10007" x="6636" y="929" width="1064" height="841" frameX="-42" frameY="-34" frameWidth="1149" frameHeight="909"/>
+	<SubTexture name="Tween 11 instance 10008" x="10" y="1832" width="1064" height="840" frameX="-42" frameY="-35" frameWidth="1149" frameHeight="909"/>
+	<SubTexture name="Tween 11 instance 10009" x="10" y="1832" width="1064" height="840" frameX="-42" frameY="-35" frameWidth="1149" frameHeight="909"/>
+	<SubTexture name="Tween 11 instance 10010" x="10" y="1832" width="1064" height="840" frameX="-42" frameY="-35" frameWidth="1149" frameHeight="909"/>
+	<SubTexture name="ddddd instance 10000" x="1084" y="1832" width="2014" height="1267"/>
+	<SubTexture name="ddddd instance 10001" x="3108" y="1832" width="2014" height="1267"/>
+	<SubTexture name="ddddd instance 10002" x="5132" y="1832" width="2014" height="1267"/>
+	<SubTexture name="ddddd instance 10003" x="10" y="3109" width="2014" height="1267"/>
+	<SubTexture name="ddddd instance 10004" x="2034" y="3109" width="2014" height="1267"/>
+	<SubTexture name="ddddd instance 10005" x="4058" y="3109" width="2014" height="1267"/>
+	<SubTexture name="ddddd instance 10006" x="4058" y="3109" width="2014" height="1267"/>
+	<SubTexture name="ddddd instance 10007" x="4058" y="3109" width="2014" height="1267"/>
+	<SubTexture name="ddddd instance 10008" x="4058" y="3109" width="2014" height="1267"/>
+	<SubTexture name="ddddd instance 10009" x="4058" y="3109" width="2014" height="1267"/>
+	<SubTexture name="ddddd instance 10010" x="4058" y="3109" width="2014" height="1267"/>
+	<SubTexture name="yourmom instance 10000" x="6082" y="3109" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10001" x="6854" y="3109" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10002" x="10" y="4386" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10003" x="782" y="4386" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10004" x="1554" y="4386" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10005" x="2326" y="4386" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10006" x="3098" y="4386" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10007" x="3870" y="4386" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10008" x="4642" y="4386" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10009" x="5414" y="4386" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10010" x="6186" y="4386" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10011" x="6958" y="4386" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10012" x="10" y="4477" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10013" x="782" y="4477" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10014" x="1554" y="4477" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10015" x="2326" y="4477" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10016" x="3098" y="4477" width="762" height="81"/>
+	<SubTexture name="yourmom instance 10017" x="6082" y="3109" width="762" height="81"/>
+</TextureAtlas>

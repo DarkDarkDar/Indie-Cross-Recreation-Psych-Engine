@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "0Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "0EERR",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-55
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "0Ouu",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "0UPPP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "0EEEE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				16
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "L-Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-32
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "D-Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				104
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "U-Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				15
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "R-Miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/New_BF_Bendy",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

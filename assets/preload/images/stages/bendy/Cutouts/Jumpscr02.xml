@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jumpscr02.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WEEE instance 10000" x="10" y="10" width="594" height="61" frameX="-83" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10001" x="614" y="10" width="594" height="67" frameX="-83" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10002" x="1218" y="10" width="594" height="86" frameX="-83" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10003" x="1822" y="10" width="593" height="117" frameX="-84" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10004" x="2425" y="10" width="593" height="161" frameX="-84" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10005" x="3028" y="10" width="592" height="217" frameX="-85" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10006" x="10" y="237" width="591" height="286" frameX="-86" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10007" x="611" y="237" width="590" height="325" frameX="-87" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10008" x="1211" y="237" width="590" height="367" frameX="-87" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10009" x="1811" y="237" width="589" height="411" frameX="-88" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10010" x="2410" y="237" width="588" height="453" frameX="-89" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10011" x="3008" y="237" width="588" height="492" frameX="-89" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10012" x="10" y="739" width="587" height="528" frameX="-90" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10013" x="607" y="739" width="587" height="560" frameX="-90" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10014" x="1204" y="739" width="586" height="590" frameX="-91" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10015" x="1800" y="739" width="586" height="617" frameX="-91" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10016" x="2396" y="739" width="586" height="640" frameX="-91" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10017" x="2396" y="739" width="586" height="640" frameX="-91" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10018" x="2992" y="739" width="585" height="660" frameX="-92" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10019" x="2992" y="739" width="585" height="660" frameX="-92" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10020" x="10" y="1409" width="585" height="677" frameX="-92" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10021" x="10" y="1409" width="585" height="677" frameX="-92" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10022" x="605" y="1409" width="585" height="691" frameX="-92" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10023" x="605" y="1409" width="585" height="691" frameX="-92" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10024" x="1200" y="1409" width="585" height="702" frameX="-92" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10025" x="1200" y="1409" width="585" height="702" frameX="-92" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10026" x="1795" y="1409" width="584" height="710" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10027" x="1795" y="1409" width="584" height="710" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10028" x="2389" y="1409" width="584" height="714" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10029" x="2389" y="1409" width="584" height="714" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10030" x="2983" y="1409" width="584" height="716" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10031" x="2983" y="1409" width="584" height="716" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10032" x="2983" y="1409" width="584" height="716" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10033" x="2983" y="1409" width="584" height="716" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10034" x="2983" y="1409" width="584" height="716" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10035" x="2983" y="1409" width="584" height="716" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10036" x="2983" y="1409" width="584" height="716" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10037" x="2983" y="1409" width="584" height="716" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10038" x="2983" y="1409" width="584" height="716" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10039" x="2983" y="1409" width="584" height="716" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10040" x="2983" y="1409" width="584" height="716" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10041" x="2389" y="1409" width="584" height="714" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10042" x="2389" y="1409" width="584" height="714" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10043" x="1795" y="1409" width="584" height="710" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10044" x="1795" y="1409" width="584" height="710" frameX="-93" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10045" x="605" y="1409" width="585" height="691" frameX="-92" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10046" x="605" y="1409" width="585" height="691" frameX="-92" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10047" x="2992" y="739" width="585" height="660" frameX="-92" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10048" x="2992" y="739" width="585" height="660" frameX="-92" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10049" x="2396" y="739" width="586" height="640" frameX="-91" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10050" x="2396" y="739" width="586" height="640" frameX="-91" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10051" x="10" y="2135" width="588" height="600" frameX="-89" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10052" x="608" y="2135" width="677" height="416" frameX="0" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10053" x="1295" y="2135" width="626" height="160" frameX="-46" frameY="0" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10054" x="1931" y="2135" width="0" height="0" frameX="604" frameY="3" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10055" x="1931" y="2135" width="0" height="0" frameX="604" frameY="3" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10056" x="1931" y="2135" width="0" height="0" frameX="604" frameY="3" frameWidth="677" frameHeight="716"/>
+	<SubTexture name="WEEE instance 10057" x="1931" y="2135" width="0" height="0" frameX="604" frameY="3" frameWidth="677" frameHeight="716"/>
+</TextureAtlas>

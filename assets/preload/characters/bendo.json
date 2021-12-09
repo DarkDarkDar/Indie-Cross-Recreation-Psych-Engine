@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "B-Idle"
+		},
+		{
+			"offsets": [
+				448,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "B-Left"
+		},
+		{
+			"offsets": [
+				177,
+				-196
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "B-Right"
+		},
+		{
+			"offsets": [
+				531,
+				-85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ef"
+		},
+		{
+			"offsets": [
+				169,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "B-Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				452,
+				-68
+			],
+			"anim": "roar",
+			"fps": 24,
+			"name": "Roar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				251,
+				-150
+			],
+			"anim": "you",
+			"fps": 24,
+			"name": "YOOOUU",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bendy_sprites",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bundo",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

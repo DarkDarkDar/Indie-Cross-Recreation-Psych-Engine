@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Cuphead_standing instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Cupleft instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-17
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CupON THE GROUND NOW instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CupUp instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CupyRight instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cuphead",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "cuphead",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		35,
+		106
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
