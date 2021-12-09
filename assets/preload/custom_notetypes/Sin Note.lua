@@ -18,6 +18,7 @@ end
 -- isSustainNote: If it's a hold note, can be either true or false
 function goodNoteHit(id, noteData, noteType, isSustainNote)
 	if noteType == 'Sin Note' then
-		setProperty('health', -500);
+		setProperty('health', getProperty('health') - 0.5); 
+		playSound('inked')
 	end
 end
